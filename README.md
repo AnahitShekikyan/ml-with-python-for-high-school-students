@@ -42,7 +42,7 @@ The course starts with Python basics and gradually builds toward more advanced t
 
 | Chapter | Topic | Status | Colab |
 |---------|-------|--------|-------|
-| 01 | Python Basics — comments, variables, loops, functions, and more | ✅ Available | [Open in Colab](https://colab.research.google.com/github/AnahitShekikyan/ml-with-python-for-high-school-students/blob/main/chapter_01_python_basics/Chapter_1_Python_Basics.ipynb) |
+| 01 | Python Basics — comments, variables, loops, functions, and more | ✅ Available |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnahitShekikyan/ml-with-python-for-high-school-students/blob/main/chapter_01_python_basics/Chapter_1_Python_Basics.ipynb)|
 | 02 | Data Analysis — NumPy, pandas, and working with real datasets | 🔜 Coming soon |
 | 03 | Data Visualization — charts and graphs with Matplotlib | 🔜 Coming soon |
 | 04 | Supervised Learning — regression and classification with Scikit-learn | 🔜 Coming soon |
