@@ -40,10 +40,10 @@ The course starts with Python basics and gradually builds toward more advanced t
 
 ## 📚 Course Outline
 
-| Chapter | Topic | Status | Colab |
+| Chapter | Topic | Status | Colab and VS Code|
 |---------|-------|--------|-------|
 | 01 | Python Basics — comments, variables, loops, functions, and more | ✅ Available |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnahitShekikyan/ml-with-python-for-high-school-students/blob/main/chapter_01_python_basics/Chapter_1_Python_Basics.ipynb)|
-| 02 | Data Analysis — NumPy, pandas, and working with real datasets | 🔜 Coming soon |
+| 02 | Introduction to Machine Learning — features, labels, linear regression, and predictions | ✅ Available | [Open in Colab](https://colab.research.google.com/github/AnahitShekikyan/ml-with-python-for-high-school-students/blob/main/chapter_02_intro_to_machine_learning/chapter_2_intro_to_machine_learning.ipynb) · [VS Code](https://github.dev/AnahitShekikyan/ml-with-python-for-high-school-students/blob/main/chapter_02_intro_to_machine_learning/chapter_2_intro_to_machine_learning.ipynb) |
 | 03 | Data Visualization — charts and graphs with Matplotlib | 🔜 Coming soon |
 | 04 | Supervised Learning — regression and classification with Scikit-learn | 🔜 Coming soon |
 | 05 | Unsupervised Learning — clustering and pattern discovery | 🔜 Coming soon |
